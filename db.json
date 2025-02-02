@@ -1,7 +1,9 @@
-[
-  {
+{
+  "person": [
+    {
     "name": "Scott",
     "city": "Pipersville",
     "state": "PA"
   }
-]
+  ]
+}
