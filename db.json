@@ -1,7 +1,9 @@
-[
-  {
-    "id": 1,
-    "city" : "Pipersville",
-    "state" : "Pennsylvania"
-  }
-]
+{
+  "locations" : [
+    {
+      "id": 1,
+      "city" : "Pipersville",
+      "state" : "Pennsylvania"
+    }
+  ]
+}
